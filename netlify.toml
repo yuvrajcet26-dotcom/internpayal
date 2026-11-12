@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/internship_payal.html"
+  to = "/"
+  status = 301
